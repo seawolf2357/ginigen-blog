@@ -14,9 +14,9 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
+const title = 'GineGEN'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  '실시간 검색 기반 멀티 Agent 블로그 포스트 생성'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://morphic.sh'),
